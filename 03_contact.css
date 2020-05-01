@@ -1,9 +1,7 @@
 .form_entry{margin-bottom: .5em;
-margin-left: .5em}
+margin-left: 30px}
 
 .form_bgimage{background-image: url("../images/Westervelt_IRD__018.jpg")}
 
 
 label {font-weight:bold}
-
-.textarea{align-content: center}
