@@ -9,3 +9,7 @@
 @media screen and (min-width: 1024px) {
     p{column-count:3}
 }
+
+.nav-pills a{
+color:black;
+}

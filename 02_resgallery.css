@@ -1,3 +1,6 @@
+.nav-pills a{
+color:black;
+}
 .carousel-caption {
     bottom: auto;
     top: 10px;
@@ -8,4 +11,3 @@
 }
 
 @media (min-width: 0px)
- 
